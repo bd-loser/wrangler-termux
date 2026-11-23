@@ -15,5 +15,5 @@ Idempotent. Patches the installed wrangler in place; re-run after
 `npm update -g wrangler` (the installer detects a changed upstream
 bootstrap and fails loudly instead of half-patching).
 
-Tested: wrangler 4.149.0, Termux aarch64, node 26. Used to deploy
+Tested: wrangler 4.167.0, Termux aarch64, node 26. Used to deploy
 [bd-loser/opencode-relay](https://github.com/bd-loser/opencode-relay).
